@@ -1,0 +1,1 @@
+npm i -g postcss-cli && npm run build
